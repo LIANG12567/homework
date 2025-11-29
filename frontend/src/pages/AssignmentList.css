@@ -1,0 +1,21 @@
+.assignment-list-page {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.empty-message {
+  text-align: center;
+  padding: 40px;
+  color: #666;
+  font-size: 18px;
+}
+
+.error-container {
+  text-align: center;
+  padding: 40px;
+}
+
+.table-container {
+  overflow-x: auto;
+}
+
